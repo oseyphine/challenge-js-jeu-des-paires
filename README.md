@@ -20,3 +20,17 @@ Vous avez des images à votre dispositions dans le dossier **img**.
 ### Bonus
 Mettre en place un chronomètre pour obliger l'utilisateur à réussir le jeu dans un temps imparti.
 Permettre à l'utilisateur de recommencer le jeu quand il a finit.
+
+
+*ANALYSE*
+
+Je lance la partie 
+Les cartes se disposent aléatoirement et de manière définitive pour une partie
+Je clique sur une carte elle se retourne
+Je clique sur une seconde carte elle se retourne
+L'AI compare les deux cartes
+	Si elles sont identique il ne se passe rien
+	Si elles ne sont pas identique elle se retournent
+
+**
+
