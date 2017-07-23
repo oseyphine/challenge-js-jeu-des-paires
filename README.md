@@ -32,5 +32,6 @@ L'AI compare les deux cartes
 	Si elles sont identique il ne se passe rien
 	Si elles ne sont pas identique elle se retournent
 
-**
+**ALGORITHME**
+
 

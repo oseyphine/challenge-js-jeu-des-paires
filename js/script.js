@@ -24,15 +24,15 @@ function toutTrouve(){
 	return
 };
 
-// Compter le nombre de cliques pas plus de 2
-let nbClique = 0,
+// // Compter le nombre de cliques pas plus de 2
+// let nbClique = 0,
 
-function compteClique(){
-	nbClique++;
-	if(nbClique == 2){
-		
-	}
-};
+// function compteClique(){
+// 	nbClique++;
+// 	if(nbClique == 2){
+
+// 	}
+// };
 
 // // Comparer les deux cartes
 
@@ -56,7 +56,7 @@ for(let i = 0; i < carte.length; i++){
 
 	$(carte[i]).click(function(){
 		carte[i].src = face[i];
-		compteClique();
+		toutTrouve();
 	});
 }
 
